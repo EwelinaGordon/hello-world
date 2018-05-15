@@ -6,6 +6,7 @@ class HelloWorld {
         System.out.println("Ucze sie Javy!");
         System.out.println("Kontrola!");
         System.out.println("Sprawdzenie2");
+        System.out.println("Sprawdzenie33");
 
 
     }
