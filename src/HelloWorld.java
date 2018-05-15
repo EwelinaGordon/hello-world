@@ -4,6 +4,7 @@ class HelloWorld {
 
         System.out.println("Hello World");
         System.out.println("Ucze sie Javy!");
+        System.out.println("Kontrola!");
 
 
     }
